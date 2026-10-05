@@ -1,0 +1,9 @@
+ENGEN MIDRAND
+Cnr Olifantsfontein Rd
+VAT N0 4987654321
+O2.1O.2026  O7:15
+ULP 95    34.71 L @ 18.73
+FUEL                    65O.OO
+TOTAL DUE         R 65O.OO
+VAT                      84.78
+CARD ****1234

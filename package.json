@@ -1,0 +1,17 @@
+{
+  "name": "receipt-ocr",
+  "version": "1.0.0",
+  "description": "Read totals, VAT, dates and line items from till slips with Tesseract.js or Google Cloud Vision",
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "start": "npx serve . -l 5173"
+  },
+  "bin": {
+    "receipt-ocr": "src/cli.js"
+  },
+  "dependencies": {
+    "tesseract.js": "^5.1.1"
+  },
+  "license": "MIT"
+}
